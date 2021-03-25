@@ -6,6 +6,10 @@ body {
   padding: 0;
 }
 
+.card {
+  padding: 0.5em;
+}
+
 .card .card-header {
   font-size: 18px;
   font-weight: bold;

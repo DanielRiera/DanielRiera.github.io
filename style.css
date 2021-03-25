@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  color: #FFF;
+  font-size: 14px;
+  background-color: #333;
+  padding: 0;
+}
+
+.card .card-header {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.card .card-content {
+  font-size: 12px;
+}
+/*# sourceMappingURL=style.css.map */
